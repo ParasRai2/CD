@@ -1,0 +1,31 @@
+#body{
+
+}
+
+.head{
+	background-color: lightblue;
+	padding: 12px;
+}
+.headtext{
+	color: blue;
+	font-family: Comic Sans;
+}
+.text{
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-style: bold;
+	font-size: 30px;
+	color: red;
+}
+.nav a{
+	color: red;
+	cursor: pointer;
+}
+.headtext{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.actived{
+	background-color: red;
+	color: white;
+}
